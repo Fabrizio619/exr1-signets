@@ -1,0 +1,36 @@
+.Entete {
+background-color: gray;
+height: 50px;
+
+ul {
+    margin: 10px 0 0 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    font-size: 1.5em;
+
+
+    li{
+       
+        padding-top: 10px;
+
+        }
+
+
+    li:not(:last-of-type){
+        padding-left:1px;
+
+        }
+
+        li:first-of-type{
+            margin-right:auto;
+    
+            }
+
+
+
+
+
+}
+
+}
