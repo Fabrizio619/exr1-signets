@@ -11,7 +11,7 @@ export default function ListeLogiciels(props){
     return (
 
   <div className="ListeLogiciels">      
-        <h2>Produits logiciels</h2>    
+        <h2>Produits logiciels new</h2>    
 <ul>
 
 
