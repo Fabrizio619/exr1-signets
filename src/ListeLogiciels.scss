@@ -1,24 +1,20 @@
-.ListesLogiciels{
+.ListeLogiciels{
 
 
   
    
   
 
-    // margin: 40px;
-    // h2{
-    //     margin-bottom: 20px;
-    //     padding-bottom: 10px;
-    //     border-bottom: 2px;
-    // }
+    margin-left: 100px;
 
-    // ul{
-    //     list-style: none;
-    //     display:grid;
-    //     flex-wrap: wrap;
-    //     justify-content: space-evenly;
-    //     margin: 0;
-    //     padding: 0;
-    // }
+
+    ul{
+        list-style: none;
+        display:flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        margin: 0;
+        padding: 0;
+    }
  
 }

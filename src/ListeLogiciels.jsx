@@ -19,7 +19,7 @@ export default function ListeLogiciels(props){
  
 
 {tabLogiciels.map(prd => 
-    <Logiciel key={prd.id} nom={prd.nom} date={prd.date} id={prd.id}/>    
+    <Logiciel key={prd.id} nom={prd.nom} date={prd.date}  couleur={prd.couleur} id={prd.id}/>    
    )}
 
 </ul>

@@ -2,41 +2,50 @@
     {
       "nom": "cadriciels",
       "date": "8 février 2021",
+      "couleur": "blue",
       "id": "prd0001"
     },
     {
       "nom": "react",
       "date": "24 décembre 2020",
+      "couleur": "red",
       "id": "prd0002"
     },
     {
       "nom": "Plateformes nuagiques",
       "date": "12 janvier 2021",
+      "couleur": "green",
       "id": "prd0003"
     },
     {
       "nom": "IDEs (nuagiques)",
       "date": "5 mars 2020",
+      "couleur": "yellow",
       "id": "prd0004"
     },
     {
       "nom": "Outils Javascript",
       "date": "4 décembre 2020",
+      "couleur": "purple",
       "id": "prd0005"
     },
     {
       "nom": "JavaScript",
       "date": "9 février 2021",
+      "couleur": "orange",
       "id": "prd0006"
     },
     {
       "nom": "Firebase",
       "date": "4 février 2021",
+      "couleur": "black",
       "id": "prd0007"
     },
     {
       "nom": "Graph QL",
       "date": "24 janvier 2021",
+      "couleur": "gray",
       "id": "prd0008"
+
     }
   ]
