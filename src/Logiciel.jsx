@@ -9,7 +9,7 @@ export default function Logiciel(props) {
 
 
 <li className="Logiciel">
-    <img className="picture" src={'images-logiciels/' + props.id + '.webp'} alt="image"/>
+    <img className="picture" src={'images-logiciels/' + props.id + '.webp'} alt="image" width="225" height="120"/>
     <div className="info">
 <p className="nom">{props.nom}</p>
 <p className="date">modifié: {props.date}</p>
