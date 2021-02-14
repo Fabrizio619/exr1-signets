@@ -3,6 +3,9 @@ import './Appli.scss';
 import Logiciel from "./Logiciel";
 import tabLogiciels from './data/logiciel.json';
 
+import AddIcon from '@material-ui/icons/Add';
+// import { AddIcon } from '@material-ui/core';
+
 export default function ListeLogiciels(props){
 
 
@@ -23,6 +26,10 @@ export default function ListeLogiciels(props){
    )}
 
 </ul>
+
+<div className="AddIconbody">
+<AddIcon/>
+</div>
 
 </div>
    );
